@@ -1,0 +1,3 @@
+D:/Rauf/Technion/מבא/Hw2/Hw2q2/cmake-build-debug/CMakeFiles/Hw2q2.dir
+D:/Rauf/Technion/מבא/Hw2/Hw2q2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Rauf/Technion/מבא/Hw2/Hw2q2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
